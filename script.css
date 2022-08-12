@@ -1,0 +1,17 @@
+.success{
+    background: green;
+    /* margin: 10px;
+    font-size: 24px;
+    /* color: white; */
+} 
+.error{
+    background: red;
+    /* margin: 10px;
+    /* font-size: 24px; */
+} 
+.warning{
+    background: yellow;
+    /* color: crimson;
+    font-size: 24px;
+    /* margin: 10px; */
+} 
